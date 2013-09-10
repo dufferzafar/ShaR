@@ -248,5 +248,5 @@ end
 
 --file:close(); file2:close();
 
-print(Shar_Encrypt("Bomb Phodna Hai Jama Masjid Pe", "ujmko", false))
-print(Shar_Decrypt(Shar_Encrypt("Bomb Phodna Hai Jama Masjid Pe", "ujmko", false), "ujmko", false))
+print(Shar_Encrypt("Shadab Zafar", "1", false))
+-- print(Shar_Decrypt(Shar_Encrypt("Bomb Phodna Hai Jama Masjid Pe", "ujmko", false), "ujmko", false))
